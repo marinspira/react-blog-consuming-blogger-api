@@ -15,6 +15,7 @@ This repository contains a blog project developed in React that consumes the Blo
 
 ### Install dependencies:
 `cd repository-name`
+
 `npm install`
 
 ### Configure environment variables with your Blogger API credentials:
